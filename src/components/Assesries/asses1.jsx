@@ -37,7 +37,7 @@ const Asses1 = () =>  {
     </div>
         <div className='boxSubmit'>
                <Link to="/register">
-        <input type="submit" value="Submit" ></input></Link>
+        <input type="submit" value="proceed" ></input></Link>
         </div>
         
         </div>
